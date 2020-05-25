@@ -56,9 +56,9 @@ class Dropdown {
 
 const dropdown = new Dropdown("#dropdown", {
   items: [
-    { label: "Москва", id: "msk" },
-    { label: "Санкт-Петербург", id: "spb" },
-    { label: "Новосибирск", id: "nsk" },
-    { label: "Краснодар", id: "krdr" },
+    { label: "Минск", id: "msk" },
+    { label: "Брест", id: "brs" },
+    { label: "Гомель", id: "gom" },
+    { label: "Могилев", id: "mog" },
   ],
 });
